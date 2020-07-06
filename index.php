@@ -1,4 +1,5 @@
 <?php
-header("Location: https://setup-your-product.website/actmca/");
+header("Location: https://act-mca.herokuapp.com/
+");
 die();
 ?>
